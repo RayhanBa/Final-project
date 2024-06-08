@@ -1,0 +1,109 @@
+.cat {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    ;
+}
+
+.jpg {
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+
+#me {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.birthday {
+    width: 40px;
+    height: 40x;
+    border-radius: 50%;
+
+}
+
+#h4 {
+    display: inline;
+}
+
+.location {
+    width: 30px;
+    height: 30px;
+    padding-left: 4PX;
+}
+
+#location {
+    display: inline;
+}
+.tel{
+    width: 40px;
+    height: 40px;
+    padding-left: 0PX;
+}
+#tel{
+    display: inline;
+}
+#email{
+    display: inline;
+}
+.email{
+    width: 40px;
+    height: 40px;
+    padding-left: 0PX;
+}
+body{
+    background-color: rgb(253, 235, 239) ;
+}
+#myinfo{
+    background-color: white;
+    border: 2px solid black;
+    width: 250px;
+    height: 200px;
+}
+
+#edu{
+    display: flex;
+    justify-content: space-between;
+}
+#edu1{
+    display: flex;
+    justify-content: space-between;
+}
+#skills{
+    width: 200px;
+    height: 240px;
+    border: 2px solid black ;
+    background-color: white;
+    padding-left: 15px;
+}
+#mounia{
+    background-color: white;
+    padding: 5px;
+    padding-bottom: 25px;
+    border: 2px solid black;
+}
+#Lhassan{
+    background-color: white;
+    border: 2px solid black;
+    padding: 5px;
+    padding-bottom: 25px;
+}
+#adam {
+    background-color: white;
+    border: 2px solid black;
+    padding: 5px;
+    padding-bottom: 25px;
+}
+#me1{
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+}
+.time{
+ color: rgb(252, 34, 107);
+}
